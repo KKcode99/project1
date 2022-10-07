@@ -22,4 +22,5 @@
 
 // alert(`Hello, are you ${user}?`)
 
-
+const a = 1;
+console.log(a);
